@@ -2,7 +2,7 @@
 
 ## ***Synopsis*** : 
 
-Une lycéenne de 17 ans ayant fuguée de chez elle, se retrouve hébergé chez un jeune [nformaticien](https://fr.wikipedia.org/wiki/Informaticien)  de 29 ans, refusant toute les avances de cette filles nommée *Sayu Ogiwara*. Va t'il résister à son charme autant qu'il le prétend? 
+Une lycéenne de 17 ans ayant fuguée de chez elle, se retrouve hébergé chez un jeune [informaticien](https://fr.wikipedia.org/wiki/Informaticien)  de 29 ans, refusant toute les avances de cette filles nommée *Sayu Ogiwara*. Va t'il résister à son charme autant qu'il le prétend? 
 
 ## ***les personnages :***
 
