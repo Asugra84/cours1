@@ -6,10 +6,10 @@ Une lycéenne de 17 ans ayant fuguée de chez elle, se retrouve hébergé chez u
 
 ## ***les personnages :***
 
-| Nom | Prénom | Age | photo |
-| Ogiwara | Sayu | 17 ans | ![screen](https://pin.it/4nLV5XA) |
-| Hashimoto | Yoshida | 29 ans | ![screen](https://pin.it/21rJRdI) |
-
+| nom | prénom | Age |
+|--- |--- |--- |
+| Ogiwara | Sayu | 17 ans |
+| Hashimoto | Yoshida | 29 ans |
 
 ## ***Pourquoi regarder ? ***
 
@@ -21,9 +21,5 @@ Une lycéenne de 17 ans ayant fuguée de chez elle, se retrouve hébergé chez u
 **Merci de votre lecture**
 BAUDOUY Ugo.
 
-| Header | Another header | Yet another header |
-|--- |--- |--- |
-| row 1 | column 2 | column 3 |
-| row 2 | row 2 column 2 | row 2 column 3 |
 
 
