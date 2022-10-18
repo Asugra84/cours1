@@ -6,10 +6,10 @@ Une lycéenne de 17 ans ayant fuguée de chez elle, se retrouve hébergé chez u
 
 ## ***les personnages :***
 
-| nom | prénom | Age | | photo |
+| nom | prénom | Age |
 |--- |--- |--- |
-| Ogiwara | Sayu | 17 ans | ![screen](téléchargement(1).jfif) |
-| Hashimoto | Yoshida | 29 ans | |
+| Ogiwara | Sayu | 17 ans |
+| Hashimoto | Yoshida | 29 ans |
 
 ## ***Pourquoi regarder ? ***
 
