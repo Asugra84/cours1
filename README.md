@@ -11,7 +11,7 @@ Une lycéenne de 17 ans ayant fuguée de chez elle, se retrouve hébergé chez u
 | Ogiwara | Sayu | 17 ans |
 | Hashimoto | Yoshida | 29 ans |
 
-## ***Pourquoi regarder ? ***
+## ***Pourquoi regarder ?***
 
 >* C'est un animé court ( *12 épisodes* ) 
 >* Yoshida n'est pas mal intentionné, il veut même **protéger** Sayu et la faire changer
